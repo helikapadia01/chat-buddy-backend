@@ -13,7 +13,7 @@ config();
 const app = express();
 
 //middleware
-app.use(cors({origin: "https://chat-buddy-api.onrender.com/", credentials: true}));
+app.use(cors({origin: "https://chat-buddy-backend-n7gb.onrender.com", credentials: true}));
 app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(express.json());
 
