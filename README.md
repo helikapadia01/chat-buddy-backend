@@ -23,9 +23,7 @@ This is the backend for the Chat Buddy application, built with Node.js, Express,
 # chat-buddy-backend
 
 2. **Install dependencies:**
-   ```npm install
-
-   ```
+   `npm install`
 
 ## Configuration
 
